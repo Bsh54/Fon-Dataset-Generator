@@ -5,13 +5,16 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)](#)
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-Visualiser_le_Dataset-green?style=for-the-badge&logo=googlesheets)](https://docs.google.com/spreadsheets/d/1YGiLHh13jsMZkP04Gi101uc8dgdf-9AOK-u_ymuF8IU/edit?usp=sharing)
+[![Dataset JSONL](https://img.shields.io/badge/Dataset-JSONL_Format-blue?style=for-the-badge&logo=json)](data/dataset_fr_fon.jsonl)
 
 ---
 
 ## 📊 Accès Rapide aux Données
 
-Avant d'explorer le code, vous pouvez consulter le dataset final directement en ligne :
-👉 **[Accéder au Google Sheets (Visualisation)](https://docs.google.com/spreadsheets/d/1YGiLHh13jsMZkP04Gi101uc8dgdf-9AOK-u_ymuF8IU/edit?usp=sharing)**
+Le dataset est disponible sous deux formats pour s'adapter à vos besoins :
+
+*   **🌐 Visualisation** : [Consulter sur Google Sheets](https://docs.google.com/spreadsheets/d/1YGiLHh13jsMZkP04Gi101uc8dgdf-9AOK-u_ymuF8IU/edit?usp=sharing) (Idéal pour la relecture humaine).
+*   **📂 Format Brut (JSONL)** : [Accéder au fichier `data/dataset_fr_fon.jsonl`](data/dataset_fr_fon.jsonl) (Prêt pour l'entraînement d'IA / Fine-tuning).
 
 ---
 
