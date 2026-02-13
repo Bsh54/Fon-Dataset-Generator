@@ -4,7 +4,14 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)](#)
-[![Tech](https://img.shields.io/badge/Tech-OpenAI%20%7C%20DeepSeek%20%7C%20Asyncio-orange.svg)](#)
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-Visualiser_le_Dataset-green?style=for-the-badge&logo=googlesheets)](https://docs.google.com/spreadsheets/d/1YGiLHh13jsMZkP04Gi101uc8dgdf-9AOK-u_ymuF8IU/edit?usp=sharing)
+
+---
+
+## 📊 Accès Rapide aux Données
+
+Avant d'explorer le code, vous pouvez consulter le dataset final directement en ligne :
+👉 **[Accéder au Google Sheets (Visualisation)](https://docs.google.com/spreadsheets/d/1YGiLHh13jsMZkP04Gi101uc8dgdf-9AOK-u_ymuF8IU/edit?usp=sharing)**
 
 ---
 
