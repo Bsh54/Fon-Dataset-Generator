@@ -41,8 +41,8 @@ Idéal pour ceux qui préfèrent une interface visuelle via Google Sheets.
 ### Prérequis (Version Python)
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-username/fon-dataset-generator.git
-   cd fon-dataset-generator
+   git clone https://github.com/Bsh54/Fon-Dataset-Generator.git
+   cd Fon-Dataset-Generator
    ```
 2. Installez les dépendances :
    ```bash
