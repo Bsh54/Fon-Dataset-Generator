@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnement virtuel
+.env
+venv/
+ENV/
+
+# Données locales (optionnel, selon si vous voulez partager vos datasets)
+# data/*.jsonl
+
+# IDE
+.vscode/
+.idea/
